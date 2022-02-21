@@ -55,3 +55,17 @@ form button {
 form button:hover {
   background-color: var(--primary-color-darker);
 }
+
+.paragrafo-resultado {
+  margin-top: 20px;
+  border: 2px ridge rgb(109, 255, 182);
+  padding: 10px 20px;
+  text-align: center;
+}
+
+.bad {
+  margin-top: 20px;
+  background-color: rgb(243, 110, 105);
+  padding: 10px 20px;
+  text-align: center;
+}
